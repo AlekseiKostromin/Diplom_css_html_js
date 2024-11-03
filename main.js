@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener('DOMContentLoaded', function() {
     const carouselInner = document.querySelector('.carusel-inner');
     const carouselItems = document.querySelectorAll('.carusel-item');
     const prevButton = document.querySelector('.prev');
